@@ -1,3 +1,3 @@
-# yazbel.com Yazılım Belgelendirme Projesi
+# YazBel Yazılım Belgelendirme Projesi
 
-Bu veri havuzu yazbel.com sitesinin kaynak kodunu içermektedir.
+yazbel.com kaynak kodu
